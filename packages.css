@@ -1,0 +1,35 @@
+.main--details {
+    justify-items: start;
+    font-family: inherit;
+    padding-top: 32px;
+}
+
+.main--details__section {
+    /* background-color: rgb(34, 58, 50); */
+    border: 4px solid green;
+    border-left: none;
+    width: 80%;
+    margin: 16px 0;
+    background-color: rgb(183, 230, 114);
+}
+
+.main--details__section .first {
+    background-color: rgb(113, 211, 178);
+}
+
+.main--details__section .second {}
+
+.main--details__section .third {}
+
+.main--details__section__a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 32px;
+}
+
+.main--details__section__a__h1 {}
+
+.main--details__section__a__h2 {}
+
+.main--details__section__a__p {}
